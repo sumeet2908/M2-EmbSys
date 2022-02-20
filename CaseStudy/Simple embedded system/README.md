@@ -41,3 +41,32 @@ The below block diagram has the major parts for Fire Monitoring System
 
   *  Buzzer is used for notification regarding fire detection. If fire is detecting, then microcontroller sends signal to the buzzer.
      Buzzer is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers include alarm devices.
+     
+  # Simple Embedded System
+
+
+# High Level Requirements
+
+## High Level Requirements
+|ID	 | Description                                            |
+|:--:|:------------------------------------------------------:|
+|HR01|Alarm system should work all day.                       | 
+|HR02|It should always sense the smoke.                       | 
+|HR03|It should always alarm when any fire is detected        | 
+|HR04|It should always detect fire.                           | 
+|HR05|It should display the temprature on display             | 
+
+
+# Low Level Requirements
+
+## Low Level Requirements
+|ID	 | Description                                            |	
+|:--:|:------------------------------------------------------:|
+|LR01|  Micro-controller controll speed of fan  According to the values
+|LR02|	Micro-controller should give signal to  activate buzzer circuit            | 
+|LR03|	GSM modem should detect the signals.         
+|LR04|  ADC should covert signal properly       
+|LR05|	Display should show temperature when Micro-controller give signal.    
+
+   
+     
