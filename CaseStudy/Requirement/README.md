@@ -7,7 +7,7 @@
 |HR02|It should always sense the smoke.                       | 
 |HR03|It should always alarm when any fire is detected        | 
 |HR04|It should always detect fire.                           | 
-|HR05|It should display the temprature on display             | T
+|HR05|It should display the temprature on display             | 
 
 
 # Low Level Requirements
@@ -17,6 +17,6 @@
 |:--:|:------------------------------------------------------:|
 |LR01|  Micro-controller controll speed of fan  According to the values
 |LR02|	Micro-controller should give signal to  activate buzzer circuit            | 
-|LR03|	         
-|LR04|         
-|LR05|	     
+|LR03|	GSM modem should detect the signals.         
+|LR04|  ADC should covert signal properly       
+|LR05|	Display should show temperature when Micro-controller give signal.    
