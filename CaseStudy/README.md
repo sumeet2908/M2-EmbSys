@@ -16,7 +16,7 @@ The below block diagram has the major parts for Fire Monitoring System
   * Smoke sensor MQ2-It can detect flammable gas.It's most common use is domestic gas leakage alarms and detectors with a high sensitivity to propane and smoke.
   * If smoke is detected, then smoke sensor give signal to the ADC.
  
-  * Temprature Sensor LM35 -The LM35 is one kind of commonly used temperature sensor that can be used to measure temperature with an electrical o/p comparative to the               temperature (in °C). It can measure temperature more correctly compare with a thermistor.
+  * Temperature Sensor LM35 -The LM35 is one kind of commonly used temperature sensor that can be used to measure temperature with an electrical o/p comparative to the               temperature (in °C). It can measure temperature more correctly compare with a thermistor.
   * The temp sensor LM35 sense the temprature if it exceeds the max temp level then it sends the signal to the ADC. If fire is detected, then fire sensor          gives signal       to the microcontroller.
 
 ## Analog to digital converter(ADC)
@@ -69,7 +69,7 @@ The below block diagram has the major parts for Fire Monitoring System
 ## Mechanical keypad   
    * To give input instruction to air conditioner.
      (i.e-lowering temprature,increasing temprature)  
-## Temprature sensor
+## Temperature sensor
    * it is used to measure the temprature of system.
 ## IR reciever
    * It is hardware that sends information from an infrared remote control to another device by receiving and decoding signals. This code is then used in order to convert            signals from the remote control into a format that can be understood by the air conditioner.
