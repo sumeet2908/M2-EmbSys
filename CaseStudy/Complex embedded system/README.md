@@ -36,3 +36,26 @@
    * A gate driver is a power amplifier that accepts a low power input from a controller and produces the appropriate high current gate drive for a power device.
 ## Fan control
    * Fan control is the management of the rotational speed of an electric fan.
+
+
+# Complex Embedded System
+
+## High Level Requirements
+|ID	 | Description                                            |
+|:--:|:------------------------------------------------------:|
+|HR01|It can be control using remote.                    | 
+|HR02|It should always give fresh air                      | 
+|HR03|It should always maintain proper room temperature      | 
+|HR04|It should not make  noise.                              | 
+|HR05|It should be easy to use by user            | 
+
+
+## Low Level Requirements
+|ID	 | Description                                            |	
+|:--:|:------------------------------------------------------:|
+|LR01|  Micro-controller controll speed of fan  According to the values
+|LR02|	Micro-controller should give signal to  activate buzzer circuit            | 
+|LR03|  Gate driven should control system.      
+|LR04|  IR reciever should sense signal properly coming from remote signal.    
+|LR05|	Display should show temperature when Micro-controller give signal.    
+
