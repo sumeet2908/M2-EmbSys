@@ -42,6 +42,13 @@ The below block diagram has the major parts for Fire Monitoring System
   *  Buzzer is used for notification regarding fire detection. If fire is detecting, then microcontroller sends signal to the buzzer.
      Buzzer is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers include alarm devices.
      
+ # Application of fire monitoring system
+ * used in hotel
+ * used in hospital
+ * used in school
+ * used in data center
+ * used in offices
+    
      
 # Air conditioner
 
