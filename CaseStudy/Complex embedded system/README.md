@@ -59,3 +59,18 @@
 |LR04|  IR reciever should sense signal properly coming from remote signal.    
 |LR05|	Display should show temperature when Micro-controller give signal.    
 
+
+ # Applications of Air Conditioning
+ 
+* Used in offices, hotels, buses, cars.,etc
+
+* Used in industries having tool room
+machines.
+
+* Used in textile industries to control
+ moisture.
+ 
+* Used in printing press.
+
+* Used in Food industries, Chemical plants.
+
