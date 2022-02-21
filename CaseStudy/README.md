@@ -81,3 +81,20 @@ The below block diagram has the major parts for Fire Monitoring System
    * A gate driver is a power amplifier that accepts a low power input from a controller and produces the appropriate high current gate drive for a power device.
 ## Fan control
    * Fan control is the management of the rotational speed of an electric fan.
+
+ # Applications of Air Conditioning
+ 
+* Used in offices, hotels, buses, cars.,etc
+
+* Used in industries having tool room
+machines.
+
+* Used in textile industries to control
+ moisture.
+ 
+* Used in printing press.
+
+* Used in Food industries, Chemical plants.
+
+
+
