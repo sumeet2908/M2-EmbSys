@@ -68,5 +68,13 @@ The below block diagram has the major parts for Fire Monitoring System
 |LR04|  ADC should covert signal properly       
 |LR05|	Display should show temperature when Micro-controller give signal.    
 
+
+# Application of fire monitoring system
+ * used in hotel
+ * used in hospital
+ * used in school
+ * used in data center
+ * used in offices
+
    
      
