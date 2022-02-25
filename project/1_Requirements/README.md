@@ -59,7 +59,7 @@ ________________________________________________________________________________
 |LLR3|  Sensor send the signal to aurdino.                                                                            |                                                  
 |LLR4|  Motor valve should be close when water is full.                                                                                            
 |LLR5|  Led should glow green when valve is open
-        led should glow red when valve is close
+|     |   led should glow red when valve is close
 
 ## SWOT
   * Strength
