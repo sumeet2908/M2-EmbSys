@@ -1,4 +1,13 @@
 # Description
+## Abstract
+
+A Water Level Indicator is used to detect and indicate the water level in an overhead tank or any other water 
+container. In this paper, we investigated the design of a water level sensor device using Arudino UNO, that can 
+detect the level of water in a water storage system. An ultrasonic sensor is used to generate ultrasonic waves, a 
+water sensor to detect the water level, LEDs to signify the importance of different water levels, PC to observe the 
+levels of water. We indicated a green LED for safe water level, one red LED for about to reach max level and two 
+red LEDs for maximum water level. This circuit is efficient and can be used for any application involving the 
+levels of any liquid
 
 ## Introduction
 
