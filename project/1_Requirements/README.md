@@ -56,16 +56,32 @@ tank
 6) These sensors take less energy and can be used for continuous operation
 
 ## Components
+ 
+ ## Arduino UNO
+    the uno is a great choice for your first arduino. it's got everything you need to get started, and  nothing you don't. it has 14 digital input/output pins
+   6 analog inputs, a usb connection, a power jack, a reset button and more. it contains everything needed to support the microcontroller; simply connect it to a computer with a    usb  cable or power it with a ac-to-dc adapter or battery to get started.
 
-Hardware required: 
- * Arduino UNO
- * Water level sensor
- * Connecting wires
- * Personal computer 
- * LED lights
- * Servo-motor
- * potentiometer
- * resistors
+ ## Water level sensor
+    Level sensors are used to detect the level of substances that can flow. Such substances include liquids, slurries, granular
+    material and powders. Level measurements can be done inside containers or it can be the level of a river or lake.
+    
+ ## Connecting wires
+   Connecting wires allows an electrical current to travel from one point on a circuit to another because electricity needs 
+   a medium through which it can move. Most of the connecting wires are made up of copper or aluminum
+   
+ ## LED lights
+   An electrical current passes through a microchip, which illuminates the tiny light sources we call LEDs and the result is visible light.
+   
+ ## Servo-motor
+    A servomotor (or servo motor) is a rotary actuator or linear actuator that allows for precise
+    control of angular or linear position, velocity and acceleration.
+    
+ ## potentiometer
+    A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider.
+    If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
+   
+ ## Resistors
+   It is a device that has electrical resistance and that is used in an electric circuit for protection, operation, or current control.
  
 ## Block diagram
 
@@ -119,10 +135,10 @@ ________________________________________________________________________________
     * It measure the water level
    
   * When:
-   * It can be used when we want to
+    * It can be used when we want to
 
   * Where:
-   * Industry,home,offices etc
+    * Industry,home,offices etc
  
   * How:
     * it can detecting by using ultrasonic sensor 
