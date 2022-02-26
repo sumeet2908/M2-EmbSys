@@ -43,7 +43,7 @@ helps in preventing wastage of water in overhead tank.
 ultrasonic sensor to measure the water level in terms of distance. this data is sent to the receiver circuit 
 using rf communication.
 
-## Features
+# Features
 
  1) Save Power: In an era of energy conservation, these devices are very beneficial to save energy. Hence 
 electrical power wastage can be reduced. These sensor control water levels and minimize the usage of 
@@ -55,7 +55,10 @@ tank
 5) AS they can be fully automatic, they save time and avoid seepage of roofs and walls due to overflowing tanks.
 6) These sensors take less energy and can be used for continuous operation
 
-## Components
+# Block diagram
+
+![Blank diagram (1)](https://user-images.githubusercontent.com/98872208/155832144-91d243e5-b589-4469-88f5-b14950d40e6a.png)
+# Components
  
  ## Arduino UNO
     the uno is a great choice for your first arduino. it's got everything you need to get started, and  nothing you don't. it has 14 digital input/output pins
@@ -83,10 +86,6 @@ tank
  ## Resistors
    It is a device that has electrical resistance and that is used in an electric circuit for protection, operation, or current control.
  
-## Block diagram
-
-![Blank diagram (1)](https://user-images.githubusercontent.com/98872208/155832144-91d243e5-b589-4469-88f5-b14950d40e6a.png)
-
 
 ## Requirements
 
@@ -111,7 +110,7 @@ ________________________________________________________________________________
 |LLR5|  Led should glow green when valve is open
 |     |   led should glow red when valve is close
 
-## SWOT
+# SWOT
   * Strength
     * It can detect the water level accurately
    
@@ -126,7 +125,7 @@ ________________________________________________________________________________
      
 
 
-## 4W's and 1H's
+# 4W's and 1H's
 
   * Who:
     * Everyone can use this circuit
@@ -144,7 +143,7 @@ ________________________________________________________________________________
     * it can detecting by using ultrasonic sensor 
  
  
-## Applications
+# Applications
 
  *  Hotels and restaurants, residential as well commercial complexes, factories, drainage etc can use these 
 water level indicators. They can be fixed for any motor as they can be easily amalgamated into any circuit.
