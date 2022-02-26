@@ -34,7 +34,7 @@ helps in preventing wastage of water in overhead tank.
 ultrasonic sensor to measure the water level in terms of distance. this data is sent to the receiver circuit 
 using rf communication.
 
-## Feature
+## Features
 
  1) Save Power: In an era of energy conservation, these devices are very beneficial to save energy. Hence 
 electrical power wastage can be reduced. These sensor control water levels and minimize the usage of 
