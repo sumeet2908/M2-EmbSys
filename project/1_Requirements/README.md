@@ -113,18 +113,27 @@ ________________________________________________________________________________
 |     |   led should glow red when valve is close
 
 # SWOT
-  * Strength
+
+  ## Strength
     * It can detect the water level accurately
+    * Highly reliable and Economically competitive.
+    * Enhanced Security of Urban Water supply and Water use efficiency.
    
-  * Weakneses
+  ## Weakneses
     * It cannot be used everywhere
+    * The automatic water level controller shows poor durability.
+    * When a problem arose, there is no built-in function to help identify the source of the failure.
+    * Water level controls need to be replaced every 3 years.
 
-  * Oppourtunities
+  ## Oppourtunities
     * Rapidly growing adoption of smart applications.
-
-  * Threats
-   * The circuit can be protected protected from water and moisture. 
-     
+    * It Develops Water Saving Technology.
+    * Maximize Water supply Benefits and provide balanced allocation of water resources.
+    
+  ##  Threats
+    * The circuit can be protected protected from water and moisture. 
+    * Skills for repair/spare parts not available in most of the areas.
+    * Any sort of defect or fault in the circuit will cause problem in water supply.  
 
 
 # 4W's and 1H's
@@ -152,3 +161,7 @@ water level indicators. They can be fixed for any motor as they can be easily am
 
  * These sensors can be used as fuel level indicators in vehicles and as liquid level indicators in chemical 
 industries.
+
+ * It can be used in Oil tank Level Control.
+ 
+ * It can also be used in Sewage pump level control.
