@@ -39,9 +39,7 @@ objective of this project is to notify the user the amount of water that is pres
 tank. this project can be further enhanced to control the water level in the tank by turning it on, when the 
 water level is low, and turning it off when the water level is high. thus, the arduino water level indicator 
 helps in preventing wastage of water in overhead tank. 
- a transmitter circuit and a receiver circuit. the transmitter circuit makes use of an 
-ultrasonic sensor to measure the water level in terms of distance. this data is sent to the receiver circuit 
-using rf communication.
+ 
 
 # Features
 
@@ -75,7 +73,8 @@ tank
    a medium through which it can move. Most of the connecting wires are made up of copper or aluminum
    
  ## LED lights
-   An electrical current passes through a microchip, which illuminates the tiny light sources we call LEDs and the result is visible light.
+   An electrical current passes through a microchip, which illuminates the tiny light sources we call LEDs and the result is
+   visible light.
    
  ## Servo-motor
     A servomotor (or servo motor) is a rotary actuator or linear actuator that allows for precise
@@ -86,7 +85,8 @@ tank
     If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
    
  ## Resistors
-   It is a device that has electrical resistance and that is used in an electric circuit for protection, operation, or current control.
+   It is a device that has electrical resistance and that is used in an electric circuit for protection, operation, or current
+   control.
  
 
 ## Requirements
@@ -113,6 +113,9 @@ ________________________________________________________________________________
 |     |   led should glow red when valve is close
 
 # SWOT
+
+![1_Yf7Ku0L_P7wTaYJ4QCHxUw](https://user-images.githubusercontent.com/98872208/157095212-a2fb1058-8c89-462b-9e38-fe21a4121c1a.png)
+
 
   ## Strength
     * It can detect the water level accurately
