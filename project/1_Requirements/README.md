@@ -61,8 +61,10 @@ tank
 # Components
  
  ## Arduino UNO
-    the uno is a great choice for your first arduino. it's got everything you need to get started, and  nothing you don't. it has 14 digital input/output pins
-   6 analog inputs, a usb connection, a power jack, a reset button and more. it contains everything needed to support the microcontroller; simply connect it to a computer with a    usb  cable or power it with a ac-to-dc adapter or battery to get started.
+    the uno is a great choice for your first arduino. it's got everything you need to get started, and  nothing you don't.
+    it has 14 digital input/output pins 6 analog inputs, a usb connection, a power jack, a reset button and more. it 
+    contains everything needed to support the microcontroller; simply connect it to a computer with a usb  cable or power
+    it with a ac-to-dc adapter or battery to get started.
 
  ## Water level sensor
     Level sensors are used to detect the level of substances that can flow. Such substances include liquids, slurries, granular
