@@ -13,6 +13,9 @@
 ## Codacy badge
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/11c677024cb94397a20ba143a5f0afd3)](https://www.codacy.com/gh/sumeet2908/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sumeet2908/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+## Codiga
+![svg](https://user-images.githubusercontent.com/98872208/157243038-a2916c99-0899-4806-8d7b-6c8022301cf6.svg) ![svg](https://user-images.githubusercontent.com/98872208/157243081-a73c3725-3fae-41c3-9a5a-986ed7885dab.svg)
+
 
 ## Folder description
 
