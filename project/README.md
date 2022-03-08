@@ -7,7 +7,9 @@
    An ultrasonic sensor is used to generate ultrasonic waves, a water sensor to detect the water level, LEDs to signify the importance of different
    water levels, PC to observe the levels of water. We indicated a green LED for safe water level, one red LED for about to reach max level and two red 
    LEDs for maximum water level. This circuit is efficient and can be used for any application involving the levels of any liquid.
-    
+## Cpp check
+
+[![Cpp check](https://github.com/sumeet2908/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sumeet2908/M2-EmbSys/actions/workflows/c-cpp.yml)
 ## Codacy badge
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/11c677024cb94397a20ba143a5f0afd3)](https://www.codacy.com/gh/sumeet2908/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sumeet2908/M2-EmbSys&amp;utm_campaign=Badge_Grade)
@@ -23,4 +25,3 @@
 |  4_TestPlanAndOutput  |  Include tables about test case
 |  5_Report             |  Detail about project
 |  6_ImageAndVideo      |  Image of output
-|  7_Other              |   References
