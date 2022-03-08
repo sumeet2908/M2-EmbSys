@@ -56,8 +56,6 @@ tank
  ## Resistors
    It is a device that has electrical resistance and that is used in an electric circuit for protection, operation, or current
    control.
- 
-
 ## Requirements
 
 ## High Level Requirements
@@ -68,8 +66,7 @@ tank
 |HLR3|	Led should glow properly.            |
 |HLR4|	Sensor should sense the water level.             |
 |HLR5|	Servo-motor should ON/OFF properly.
-   
-                          
+                            
 ## Low Level Requirements
 _______________________________________________________________________________________
 | ID |    Description                                                                                                                      |
@@ -107,24 +104,22 @@ ________________________________________________________________________________
     * Skills for repair/spare parts not available in most of the areas.
     * Any sort of defect or fault in the circuit will cause problem in water supply.  
 
-
 # 4W's and 1H's
 
-  * Who:
+  * Who
     * Everyone can use this circuit
    
-  * What:
+  * What
     * It measure the water level
    
-  * When:
+  * When
     * It can be used when we want to
 
-  * Where:
+  * Where
     * Industry,home,offices etc
  
-  * How:
+  * How
     * it can detecting by using ultrasonic sensor 
- 
  
 # Applications
 
